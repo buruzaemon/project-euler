@@ -1,7 +1,9 @@
 # Project Euler #
 
-## My Stuff ##
+## Solutions to Project Euler Problems ##
 
-* Javascript!
-* Python!
-* Chicken Scheme!
+* Julia
+* R
+* Python
+
+Solutions done using Jupyter notebooks.
