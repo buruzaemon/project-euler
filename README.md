@@ -6,5 +6,5 @@ Answers to [Project Euler](https://projecteuler.net/) problems, in languages I c
 
 * Julia
 
-Solutions done using Jupyter notebooks.
+Solutions done using [Jupyter notebooks](http://jupyter.org/).
 
