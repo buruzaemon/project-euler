@@ -1,5 +1,5 @@
 
-## Solutions to Project Euler Problems ##    ![Alt text](https://projecteuler.net/profile/buruzaemon.png "hello, world")
+## Solutions to Project Euler Problems ## 
 
 Answers to [Project Euler](https://projecteuler.net/) problems, in languages I care about:
 
@@ -7,3 +7,4 @@ Answers to [Project Euler](https://projecteuler.net/) problems, in languages I c
 
 Solutions done using [Jupyter notebooks](http://jupyter.org/).
 
+![Alt text](https://projecteuler.net/profile/buruzaemon.png "hello, world")
