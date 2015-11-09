@@ -5,7 +5,5 @@
 Answers to [Project Euler](https://projecteuler.net/) problems, in languages I care about:
 
 * Julia
-* R
-* Python
 
 Solutions done using Jupyter notebooks.
