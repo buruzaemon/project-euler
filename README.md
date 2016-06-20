@@ -1,3 +1,4 @@
-![Alt text](https://projecteuler.net/profile/buruzaemon.png "hello, world")
+![Alt text](https://projecteuler.net/profile/buruzaemon.png "ars longa, vita
+brevis")
 
-Solutions in Julia done using [Jupyter notebooks](http://jupyter.org/).
+Solutions to Project Euler problems in [Julia](http://julialang.org/).
